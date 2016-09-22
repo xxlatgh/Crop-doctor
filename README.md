@@ -22,11 +22,6 @@ https://www.crowdai.org/articles/torch-tutorial-for-plantvillage-challenge
 1. image metadata
 1. weather data
 
-## A simple model:
-1. a simple crop: apple
-1. a simple data: plantvillage
-1. a simple model
-
 ##Reference:
 1. Plant village tutorial https://www.crowdai.org/articles/plantvillage-image-classification-tutorial
 1. Networks and Deep Learning by Michael Nielsen https://www.crowdai.org/articles/plantvillage-image-classification-tutorial
