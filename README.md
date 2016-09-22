@@ -9,9 +9,12 @@ This project aims to develop predictive model using image-based crop data to ide
 ##Tutorial
 1. AlexNet on Caffe  -> image classification
 https://www.crowdai.org/articles/plantvillage-image-classification-tutorial
+  1. Algorithm: Transfer learning
+  1. Deep learning framework: Caffe
+  1. Deep learning architectures: AlexNet
 
 1. AlexNet on Torch -> image classification
-https://www.crowdai.org/articles/torch-tutorial-for-plantvillage-challenge 
+https://www.crowdai.org/articles/torch-tutorial-for-plantvillage-challenge
 
 
 ## Data source:
@@ -23,3 +26,7 @@ https://www.crowdai.org/articles/torch-tutorial-for-plantvillage-challenge
 1. a simple crop: apple
 1. a simple data: plantvillage
 1. a simple model
+
+##Reference:
+1. Plant village tutorial https://www.crowdai.org/articles/plantvillage-image-classification-tutorial
+1. Networks and Deep Learning by Michael Nielsen https://www.crowdai.org/articles/plantvillage-image-classification-tutorial
