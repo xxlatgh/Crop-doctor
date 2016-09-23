@@ -65,4 +65,4 @@ if __name__ == '__main__':
         print "Error, no filepath provided"
         exit()
 
-#    filepath = '../data/crowdai/'
+#    filepath = '../../plantvillage/crowdai/'
