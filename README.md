@@ -1,7 +1,7 @@
 # Crop-doctor
 
 This project aims to develop predictive model using image-based crop data to identify crop disease and to predict disease incidents by combining with weather data.
-  
+
  +##Tools
  +1. TensorFlow (google)
  +  1. CNTK (msft)
@@ -10,3 +10,5 @@ This project aims to develop predictive model using image-based crop data to ide
   ## Data source:
   1. plantvillage
   1. image metadata
+
+[my app website](http://desolate-tor-96741.herokuapp.com/index)
