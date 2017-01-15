@@ -11,4 +11,4 @@ This project aims to develop predictive model using image-based crop data to ide
   1. plantvillage
   1. image metadata
 
-[my app website](http://desolate-tor-96741.herokuapp.com/index)
+[my app website](http://cropdoctor.herokuapp.com/index)
