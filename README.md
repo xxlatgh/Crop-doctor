@@ -16,5 +16,3 @@ All images were rendered on a machine with:
 ## Acknowledgements
 1. Dataset is from [PlantVillage Images](https://www.plantvillage.org/en/plant_images)
 1. The data has been described in paper [An open access repository of images on plant health to enable the development of mobile disease diagnostics, David. P. Hughes, Marcel Salathe](https://arxiv.org/abs/1511.08060)
-
-[my app website](http://cropdoctor.herokuapp.com/index)
