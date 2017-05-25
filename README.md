@@ -2,6 +2,8 @@
 
 This repo contains an image-based deep learning classifier to identify crop disease.
 
+## sample results
+![results](https://s3-us-west-2.amazonaws.com/temptosync/thumbnail_original.png)
 
 ## Implementation Details
 All images were rendered on a machine with:
